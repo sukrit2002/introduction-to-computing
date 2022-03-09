@@ -47,5 +47,5 @@ if result != -1:
 else:
  print("Element is not present in array!")
 
-print("Number of occurrences of element 4 is : ",count)
+print("Number of occurrences of element 3 is : ",count)
 
